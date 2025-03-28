@@ -152,7 +152,7 @@ NAME            READY   STATUS      RESTARTS   AGE
 prowler-95vwn   0/1     Completed   0          74s
 ```
 
-4. And finally Read the Logs using `kubectl logs prowler-95vwn -n prowler-ns` to view the cluster scan results.
+4. And finally Read the Logs using `kubectl logs prowler-YOURPOD -n prowler-ns` to view the cluster scan results.
 *Detailed results are stored in the mentioned path*
 ```shell
 controlplane:~/prowler$ kubectl logs prowler-95vwn -n prowler-ns
