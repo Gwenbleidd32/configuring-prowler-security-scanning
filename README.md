@@ -42,7 +42,7 @@ Go to the google console home-page
 
 5. Now Git Clone my Repository to your computer and CD into the `credentials` Folder
 
-	- Copy and past your JSON file into this directory and rename it to `secret.json` to match the below script
+	- Copy and paste your JSON file into this directory and rename it to `secret.json` to match the below script
 
 *This Script will make an API call to GCP using your information so we can obtain our last credential to authorize the prowler application to make API calls to our google cloud project.*
 ```python
