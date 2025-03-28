@@ -18,6 +18,7 @@ Links:
 - https://docs.prowler.com/projects/prowler-open-source/en/latest/#prowler-cli-installation
 - https://github.com/prowler-cloud
 - https://docs.prowler.com/projects/prowler-open-source/en/latest/tutorials/prowler-app/#
+
 *Do note the CLI version of the application is only compatible with Unix based Operating systems.*
 
 ---
