@@ -227,7 +227,7 @@ And that is it for setting up a Kubernetes local scan using the prowler image as
 
 
 ---
-# Bonus Section - Using a shell script to force the stored results in to the log output. 
+# Bonus Section - Using a shell script to force the detailed results in to the log's output. 
 
 - This section shows my updated job yaml which is used to pull the raw stored files from the scan in a completely raw format.
 *The Data will definently need to be parsed, but I did this to validate the results were valid and exist*
